@@ -158,35 +158,6 @@ A categorized dictionary for easy reference.
 | turis    | tourist   |
 
 ---
-
-## 👥 People & Relationships
-
-| Word     | Meaning      |
-|----------|-------------|
-| chef     | boss        |
-| doct     | doctor      |
-| frata    | sibling     |
-| huma     | person      |
-| infan    | child       |
-| instru   | teacher     |
-| klas     | student     |
-| muta     | parent      |
-| parn     | partner     |
-| serva    | worker      |
-
----
-
-## ❓ Questions & Miscellaneous
-
-| Word    | Meaning  |
-|---------|---------|
-| kando?  | when?   |
-| kazo?   | why?    |
-| kila?   | who?    |
-| koma?   | how?    |
-| kua?    | where?  |
-| kuto?   | what?   |
-
 ## People & Relationships
 
 | Luma Word  | English Meaning |
@@ -210,6 +181,61 @@ A categorized dictionary for easy reference.
 | **muzika** | musician |
 | **cuisina**| cook |
 | **artista**| artist |
+
+---
+
+## Dates & Times
+
+### Days of the Week  
+
+| Luma Word   | English Meaning |
+|------------|----------------|
+| **lundo**  | Monday |
+| **mardo**  | Tuesday |
+| **merkredo** | Wednesday |
+| **ĵaudo**  | Thursday |
+| **venerdo** | Friday |
+| **sabado** | Saturday |
+| **dimanĉo** | Sunday |
+
+### Months of the Year  
+
+| Luma Word   | English Meaning |
+|------------|----------------|
+| **janua**  | January |
+| **februa** | February |
+| **marta**  | March |
+| **aprila** | April |
+| **maia**   | May |
+| **junia**  | June |
+| **julia**  | July |
+| **augusta** | August |
+| **septembra** | September |
+| **oktobra** | October |
+| **novembra** | November |
+| **decembra** | December |
+
+### Time-Related Words  
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **odia**   | today |
+| **morda**  | tomorrow |
+| **hierda** | yesterday |
+| **sema**   | week |
+| **meso**   | month |
+| **anno**   | year |
+| **mida**   | minute |
+| **hora**   | hour |
+| **sekunda** | second |
+| **matina** | morning |
+| **tarda**  | afternoon |
+| **vespera** | evening |
+| **noxa**   | night |
+| **mezdi**  | noon |
+| **midna**  | midnight |
+| **tempora** | time |
+| **kando?** | when? |
 
 ---
 
@@ -267,73 +293,6 @@ A categorized dictionary for easy reference.
 
 ---
 
-## Nature & Weather
-
-| Luma Word  | English Meaning |
-|------------|----------------|
-| **luna**   | moon |
-| **sola**   | sun |
-| **stela**  | star |
-| **vento**  | wind |
-| **pluva**  | rain |
-| **niva**   | snow |
-| **monta**  | mountain |
-| **rivo**   | river |
-| **ocea**   | ocean |
-| **mara**   | sea |
-| **flor**   | flower |
-| **arbo**   | tree |
-| **frut**   | fruit |
-| **herba**  | grass |
-| **terra**  | earth |
-| **cielo**  | sky |
-| **noxa**   | night |
-| **odia**   | today |
-| **morda**  | tomorrow |
-| **sema**   | week |
-
----
-
-## Colors
-
-| Luma Word  | English Meaning |
-|------------|----------------|
-| **blanka** | white |
-| **nigra**  | black |
-| **blua**   | blue |
-| **reda**   | red |
-| **grena**  | green |
-| **oranja** | orange |
-| **griza**  | gray |
-| **roza**   | pink |
-| **bruna**  | brown |
-| **violeta** | purple |
-
----
-
-## Numbers & Time
-
-| Luma Word  | English Meaning |
-|------------|----------------|
-| **uno**    | one |
-| **duo**    | two |
-| **tria**   | three |
-| **quatro** | four |
-| **cinqa**  | five |
-| **sexa**   | six |
-| **septa**  | seven |
-| **okta**   | eight |
-| **nova**   | nine |
-| **deka**   | ten |
-| **mida**   | minute |
-| **hora**   | hour |
-| **dia**    | day |
-| **sema**   | week |
-| **meso**   | month |
-| **anno**   | year |
-
----
-
 ## Travel & Transportation
 
 | Luma Word  | English Meaning |
@@ -353,23 +312,23 @@ A categorized dictionary for easy reference.
 | **velo**   | speed |
 | **destina** | destination |
 | **viaja**  | trip |
+| **driva**  | drive |
 
 ---
 
-## Feelings & Emotions
+## Music & Entertainment
 
 | Luma Word  | English Meaning |
 |------------|----------------|
-| **feli**   | happy |
-| **trista** | sad |
-| **fira**   | angry |
-| **frust**  | frustrated |
-| **mira**   | surprised |
-| **lasa**   | tired |
-| **tima**   | scared |
-| **pasio**  | passionate |
-| **paxa**   | calm |
-| **emoci**  | emotional |
+| **muzika** | music |
+| **canta**  | to sing |
+| **dansa**  | to dance |
+| **piano**  | piano |
+| **guitara**| guitar |
+| **ritma**  | rhythm |
+| **melodia**| melody |
+| **koncerta** | concert |
+| **playlista** | playlist |
 
 ---
 
@@ -408,6 +367,8 @@ A categorized dictionary for easy reference.
 | **viela**  | old |
 | **luma**   | bright |
 | **oscura** | dark |
+
+---
 
 ---
 
