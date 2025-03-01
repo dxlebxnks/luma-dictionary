@@ -768,6 +768,44 @@ Use these when speaking with friends or in relaxed settings! 😃
 | forta    | strong |
 | malforta | weak |
 ---
+# Physical Fitness Vocabulary in Luma
+
+| **Luma Word**    | **English Meaning**     |
+|------------------|-----------------------|
+| **kursa**       | to run                 |
+| **salta**       | to jump                |
+| **stretcha**    | to stretch             |
+| **liftu**       | to lift (weights)      |
+| **forta-trejn** | strength training      |
+| **kardio**      | cardio                 |
+| **sweta**       | to sweat               |
+| **pusa**        | to push                |
+| **traka**       | track (running track)  |
+| **respira**     | to breathe             |
+| **ekserka**     | exercise               |
+| **balansa**     | balance                |
+| **mova**        | to move                |
+| **trenado**     | training               |
+| **flexa**       | flexible               |
+| **muska**       | muscle                 |
+| **stamina**     | stamina                |
+| **fati**        | fatigue                |
+| **energa**      | energy                 |
+| **rekovra**     | to recover             |
+| **relaxa**      | to relax               |
+| **hidra**       | hydrate                |
+| **posa**        | to pose (as in yoga)   |
+| **koncentra**   | to focus               |
+| **korekt-forma** | correct form         |
+| **ritma**       | rhythm                 |
+| **teno**        | tension                |
+| **pilatesa**    | pilates                |
+| **yoga**        | yoga                   |
+| **maratona**    | marathon               |
+| **rekorda**     | personal record (PR)   |
+
+
+---
 ### 🎯 Notes
 - This dictionary is a **simplified vocabulary** for easy learning.
 - Words are structured **by category** to improve readability.
