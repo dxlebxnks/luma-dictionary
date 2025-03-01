@@ -187,6 +187,228 @@ A categorized dictionary for easy reference.
 | kua?    | where?  |
 | kuto?   | what?   |
 
+## People & Relationships
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **amika**  | friend |
+| **famila** | family |
+| **mama**   | mother |
+| **papa**   | father |
+| **frata**  | sibling |
+| **bebo**   | baby |
+| **homa**   | human |
+| **instru** | teacher |
+| **studia** | student |
+| **dokta**  | doctor |
+| **poli**   | police |
+| **vendo**  | seller |
+| **serva**  | worker |
+| **turis**  | tourist |
+| **autora** | writer |
+| **pintora**| painter |
+| **muzika** | musician |
+| **cuisina**| cook |
+| **artista**| artist |
+
+---
+
+## Common Actions (Verbs)
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **parla**  | to speak |
+| **skrive** | to write |
+| **lisa**   | to read |
+| **manja**  | to eat |
+| **drinka** | to drink |
+| **dorma**  | to sleep |
+| **mova**   | to move |
+| **kurra**  | to run |
+| **canta**  | to sing |
+| **dansa**  | to dance |
+| **toka**   | to touch |
+| **senta**  | to feel |
+| **prena**  | to take |
+| **dona**   | to give |
+| **sercha** | to search |
+| **skana**  | to scan |
+| **gida**   | to guide |
+| **plana**  | to plan |
+| **veda**   | to see |
+| **audi**   | to hear |
+
+---
+
+## Objects & Everyday Items
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **libro**  | book |
+| **pluma**  | pen |
+| **tabla**  | table |
+| **sida**   | chair |
+| **porta**  | door |
+| **fenestra** | window |
+| **pano**   | bread |
+| **kuko**   | cake |
+| **vego**   | vegetable |
+| **mela**   | apple |
+| **telefona** | phone |
+| **computa** | computer |
+| **baga**   | bag |
+| **mapa**   | map |
+| **karta**  | card |
+| **moneta** | money |
+| **posta**  | email |
+| **camera** | camera |
+| **clava**  | key |
+| **lampa**  | lamp |
+
+---
+
+## Nature & Weather
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **luna**   | moon |
+| **sola**   | sun |
+| **stela**  | star |
+| **vento**  | wind |
+| **pluva**  | rain |
+| **niva**   | snow |
+| **monta**  | mountain |
+| **rivo**   | river |
+| **ocea**   | ocean |
+| **mara**   | sea |
+| **flor**   | flower |
+| **arbo**   | tree |
+| **frut**   | fruit |
+| **herba**  | grass |
+| **terra**  | earth |
+| **cielo**  | sky |
+| **noxa**   | night |
+| **odia**   | today |
+| **morda**  | tomorrow |
+| **sema**   | week |
+
+---
+
+## Colors
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **blanka** | white |
+| **nigra**  | black |
+| **blua**   | blue |
+| **reda**   | red |
+| **grena**  | green |
+| **oranja** | orange |
+| **griza**  | gray |
+| **roza**   | pink |
+| **bruna**  | brown |
+| **violeta** | purple |
+
+---
+
+## Numbers & Time
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **uno**    | one |
+| **duo**    | two |
+| **tria**   | three |
+| **quatro** | four |
+| **cinqa**  | five |
+| **sexa**   | six |
+| **septa**  | seven |
+| **okta**   | eight |
+| **nova**   | nine |
+| **deka**   | ten |
+| **mida**   | minute |
+| **hora**   | hour |
+| **dia**    | day |
+| **sema**   | week |
+| **meso**   | month |
+| **anno**   | year |
+
+---
+
+## Travel & Transportation
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **auto**   | car |
+| **buso**   | bus |
+| **bici**   | bicycle |
+| **treno**  | train |
+| **aviona** | airplane |
+| **ruta**   | road |
+| **strata** | street |
+| **kurva**  | curve |
+| **cruza**  | crosswalk |
+| **parka**  | park |
+| **tempo**  | time |
+| **direkto** | direction |
+| **velo**   | speed |
+| **destina** | destination |
+| **viaja**  | trip |
+
+---
+
+## Feelings & Emotions
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **feli**   | happy |
+| **trista** | sad |
+| **fira**   | angry |
+| **frust**  | frustrated |
+| **mira**   | surprised |
+| **lasa**   | tired |
+| **tima**   | scared |
+| **pasio**  | passionate |
+| **paxa**   | calm |
+| **emoci**  | emotional |
+
+---
+
+## Questions & Pronouns
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **kuto?**  | what? |
+| **koma?**  | how? |
+| **kando?** | when? |
+| **kua?**   | where? |
+| **kila?**  | who? |
+| **kazo?**  | why? |
+| **mi**     | I / me |
+| **tu**     | you |
+| **el**     | he / him |
+| **ela**    | she / her |
+| **nosa**   | we / us |
+| **vosa**   | you (plural) |
+| **ila**    | they / them |
+
+---
+
+## Adjectives & Descriptions
+
+| Luma Word  | English Meaning |
+|------------|----------------|
+| **bona**   | good |
+| **mala**   | bad |
+| **forta**  | strong |
+| **lenta**  | slow |
+| **rapida** | fast |
+| **calda**  | hot |
+| **fria**   | cold |
+| **nova**   | new |
+| **viela**  | old |
+| **luma**   | bright |
+| **oscura** | dark |
+
 ---
 
 ### 🎯 Notes
