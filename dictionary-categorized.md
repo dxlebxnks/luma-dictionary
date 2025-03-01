@@ -52,6 +52,22 @@ A categorized dictionary for easy reference.
 | nava     | no              |
 
 ---
+## Informal Greetings in Luma
+
+| Luma Phrase   | English Translation       |
+|--------------|---------------------------|
+| **Ke pasa?**  | What's up? / What's happening? |
+| **Ke onda?**  | What's going on?          |
+| **Ey!**       | Hey!                      |
+| **Kom va?**   | How's it going?           |
+| **Ke tal?**   | How are things?           |
+| **Supra?**    | Sup?                      |
+| **Longo tem no vide!** | Long time no see! |
+| **Komo ta?**  | How ya doing?             |
+| **Ke move?**  | What’s new?               |
+
+Use these when speaking with friends or in relaxed settings! 😃
+---
 
 ## 😊 Emotions & Feelings
 
@@ -181,6 +197,7 @@ A categorized dictionary for easy reference.
 | **muzika** | musician |
 | **cuisina**| cook |
 | **artista**| artist |
+| **kurara**  | nurse |
 
 ---
 
@@ -369,6 +386,25 @@ A categorized dictionary for easy reference.
 | **oscura** | dark |
 
 ---
+## 🎵 Musical Instruments in Luma
+
+| Luma Word  | English Translation |
+|------------|---------------------|
+| gitarra    | guitar              |
+| piana      | piano               |
+| violina    | violin              |
+| flauta     | flute               |
+| trumpeta   | trumpet             |
+| sakso      | saxophone           |
+| tambura    | drum                |
+| harpa      | harp                |
+| klarina    | clarinet            |
+| cello      | cello               |
+| basa       | bass                |
+| ukulela    | ukulele             |
+| organa     | organ               |
+| marimba    | marimba             |
+| bongo      | bongo drums         |
 
 ---
 
