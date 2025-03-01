@@ -120,19 +120,51 @@ Use these when speaking with friends or in relaxed settings! 😃
 
 ---
 
-## 🔢 Numbers
+## 📌 Luma Numbers
 
-| Word   | Meaning  |
+### **Basic Numbers**
+| Luma   | English  |
 |--------|---------|
-| duo    | two     |
-| tria   | three   |
-| quatro | four    |
-| cinqa  | five    |
-| sexa   | six     |
-| septa  | seven   |
-| okta   | eight   |
-| nova   | nine    |
-| deka   | ten     |
+| **uno**  | one    |
+| **dyo**  | two    |
+| **treno** | three  |
+| **quatro** | four   |
+| **sinko** | five   |
+| **seso**  | six    |
+| **septo** | seven  |
+| **okto**  | eight  |
+| **nove**  | nine   |
+| **dese**  | ten    |
+
+### **Counting by Tens**
+| Luma        | English  |
+|------------|---------|
+| **dese**   | ten    |
+| **vintese**   | twenty  |
+| **trintese**   | thirty  |
+| **quarentese**  | forty  |
+| **sinktese**   | fifty  |
+| **sestese**   | sixty  |
+| **septese**   | seventy  |
+| **oktese**   | eighty  |
+| **noventese**  | ninety  |
+| **sentu**   | hundred  |
+
+### **Larger Numbers**
+| Luma        | English       |
+|------------|-------------|
+| **sentu**  | hundred      |
+| **mil**    | thousand     |
+| **dekmil** | ten thousand |
+| **sentmil** | hundred thousand |
+| **milyon** | million     |
+
+### **Examples**
+- **15** → **desuno** (10 + 5)  
+- **27** → **vintese-septo** (20 + 7)  
+- **142** → **sentu-quarentese-dyo** (100 + 40 + 2)  
+- **2,500** → **dyo mil-sentu-sinktese** (2 thousand + 500)  
+- **1,000,000** → **milyon**  
 
 ---
 
