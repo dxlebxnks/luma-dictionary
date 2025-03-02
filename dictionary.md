@@ -1,148 +1,150 @@
-| Letter | Word      | Meaning         |
-|--------|----------|----------------|
-| A      | adi      | goodbye         |
-|        | audi     | to hear         |
-|        | auto     | car             |
-|        | aviona   | airplane        |
-| B      | baga     | bag             |
-|        | bici     | bicycle         |
-|        | blanka   | white           |
-|        | blua     | blue            |
-|        | boca     | mouth           |
-|        | bona     | good            |
-|        | buso     | bus             |
-| C      | canta    | to sing         |
-|        | chef     | boss            |
-|        | cinqa    | five            |
-|        | coda     | code            |
-|        | computa  | computer        |
-|        | corza    | heart           |
-| D      | deka     | ten             |
-|        | dansa    | to dance        |
-|        | denta    | tooth           |
-|        | dona     | to give         |
-|        | domo     | house           |
-|        | doct     | doctor          |
-|        | dorma    | to sleep        |
-|        | drinka   | to drink        |
-|        | duo      | two             |
-|        | duba     | confused        |
-| E      | emoci    | emotional       |
-|        | estra    | stranger        |
-| F      | feli     | happy           |
-|        | fenestra | window          |
-|        | fira     | angry           |
-|        | flora    | flower          |
-|        | forta    | strong          |
-|        | frata    | sibling         |
-|        | frust    | frustrated      |
-|        | frut     | fruit           |
-| G      | gida     | guide           |
-|        | grata    | thank you       |
-|        | grena    | green           |
-|        | griza    | gray            |
-| H      | hako     | hacker          |
-|        | hela     | hello           |
-|        | hora     | hour            |
-|        | huma     | person          |
-| I      | infan    | child           |
-|        | instru   | teacher         |
-| J      | (None)   |                 |
-| K      | kafa     | coffee          |
-|        | kando?   | when?           |
-|        | kapo     | head            |
-|        | karis    | loving          |
-|        | kazo?    | why?            |
-|        | kila?    | who?            |
-|        | klas     | student         |
-|        | klika    | to click        |
-|        | koma?    | how?            |
-|        | komputa  | computer        |
-|        | kuko     | cake            |
-|        | kua?     | where?          |
-|        | kurra    | to run          |
-|        | kuto?    | what?           |
-| L      | lasa     | tired           |
-|        | lato     | milk            |
-|        | lenta    | slow            |
-|        | libro    | book            |
-|        | lisa     | to read         |
-|        | luna     | moon            |
-| M      | mala     | bad             |
-|        | manja    | to eat          |
-|        | mapa     | map             |
-|        | mara     | sea             |
-|        | medica   | medicine        |
-|        | melo     | honey           |
-|        | meso     | month           |
-|        | mida     | minute          |
-|        | mira     | surprised       |
-|        | morda    | tomorrow        |
-|        | monta    | mountain        |
-|        | morn     | morning         |
-|        | mova     | to move         |
-|        | muta     | parent          |
-| N      | nasa     | nose            |
-|        | nava     | no              |
-|        | nigra    | black           |
-|        | niva     | snow            |
-|        | nova     | nine            |
-|        | noxa     | night           |
-|        | numero   | number          |
-| O      | ocu      | eye             |
-|        | odia     | today           |
-|        | okta     | eight           |
-|        | oranja   | orange          |
-| P      | pano     | bread           |
-|        | parn     | partner         |
-|        | pasio    | passionate      |
-|        | paxa     | calm            |
-|        | pardon   | excuse me / sorry |
-|        | pedal    | foot            |
-|        | peda     | foot            |
-|        | plasa    | please          |
-|        | poli     | police          |
-|        | porta    | door            |
-|        | posta    | email           |
-|        | prena    | to take         |
-| Q      | quatro   | four            |
-| R      | rapida   | fast            |
-|        | reda     | red             |
-|        | rivo     | river           |
-|        | roza     | pink            |
-|        | ruta     | road            |
-| S      | salta    | salt            |
-|        | senta    | to feel         |
-|        | sema     | week            |
-|        | septa    | seven           |
-|        | sexa     | six             |
-|        | sercha   | search          |
-|        | serva    | worker          |
-|        | sida     | chair           |
-|        | siva     | yes             |
-|        | skana    | to scan         |
-|        | skrive   | to write        |
-|        | sola     | sun             |
-|        | spiza    | spice           |
-|        | stela    | star            |
-|        | stilo    | pen             |
-|        | stona    | stone           |
-|        | strata   | street          |
-| T      | tabla    | table           |
-|        | teya     | tea             |
-|        | telefona | phone           |
-|        | terra    | earth           |
-|        | tima     | scared          |
-|        | toka     | to touch        |
-|        | treno    | train           |
-|        | tria     | three           |
-|        | trista   | sad             |
-|        | turis    | tourist         |
-| U      | uno      | one             |
-| V      | venda    | seller          |
-|        | vespa    | evening         |
-|        | veda     | to see          |
-|        | vego     | vegetable       |
-|        | vento    | wind            |
-|        | voda     | water           |
-| W, X, Y, Z | (None) |               |
+| Luma Word   | English Meaning         |
+|------------|-------------------------|
+| adi        | goodbye                 |
+| amika      | friend                   |
+| artista    | artist                   |
+| auto       | car                      |
+| autora     | writer                   |
+| aviona     | airplane                 |
+| baga       | bag                      |
+| bebo       | baby                     |
+| bici       | bicycle                  |
+| blanka     | white                    |
+| blua       | blue                     |
+| bona       | good                     |
+| bonega     | awesome!                 |
+| buso       | bus                      |
+| canta      | to sing                  |
+| ĉio en ordo? | all good?              |
+| cuisina    | cook                     |
+| dansa      | to dance                 |
+| dese       | ten                      |
+| dimanĉo    | Sunday                   |
+| doka       | doctor                   |
+| doma       | house                    |
+| dona       | to give                  |
+| drinka     | to drink                 |
+| duba       | confused                 |
+| dyo        | two                      |
+| emoci      | emotional                |
+| ey!        | hey!                     |
+| fakte      | for real?                |
+| familia    | family                   |
+| felia      | happy                    |
+| fenestra   | window                   |
+| fira       | angry                    |
+| flora      | flower                   |
+| frata      | sibling                  |
+| frust      | frustrated               |
+| gis poste  | catch you later!         |
+| grata      | thank you                |
+| grena      | green                    |
+| griza      | gray                     |
+| hej        | hey                      |
+| hela       | hello                    |
+| homa       | human                    |
+| hora       | hour                     |
+| instru     | teacher                  |
+| janu       | January                  |
+| ĵaudo      | Thursday                 |
+| junia      | June                     |
+| kando?     | when?                    |
+| kapa       | head                     |
+| ke move?   | what’s new?              |
+| ke onda?   | what's going on?         |
+| ke pasa?   | what's up?               |
+| ke tal?    | how are things?          |
+| kio sup?   | what's up?               |
+| klika      | to click                 |
+| kom va?    | how's it going?          |
+| komo ta?   | how ya doing?            |
+| kurara     | nurse                    |
+| kuro       | to run                   |
+| lasa       | tired                    |
+| lata       | milk                     |
+| lisa       | to read                  |
+| libro      | book                     |
+| longo tem no vide! | long time no see! |
+| lundo      | Monday                   |
+| luna       | moon                     |
+| malvarma   | cool!                    |
+| mama       | mother                   |
+| marda      | Tuesday                  |
+| mara       | sea                      |
+| mapa       | map                      |
+| medica     | medicine                 |
+| merkredo   | Wednesday                |
+| meso       | month                    |
+| mi foras   | I'm out!                 |
+| mida       | minute                   |
+| mil        | thousand                 |
+| milyon     | million                  |
+| mira       | surprised                |
+| morda      | tomorrow                 |
+| morn       | morning                  |
+| mov        | to move                  |
+| muzika     | musician                 |
+| nava       | no                       |
+| nenio      | nothing much             |
+| niva       | snow                     |
+| nove       | nine                     |
+| novembra   | November                 |
+| noxa       | night                    |
+| numero     | number                   |
+| odi        | today                    |
+| ocu        | eye                      |
+| okto       | eight                    |
+| oktobra    | October                  |
+| oranja     | orange                   |
+| pano       | bread                    |
+| pardon     | excuse me/sorry          |
+| pasio      | passionate               |
+| paxa       | calm                     |
+| peda       | foot                     |
+| plasa      | please                   |
+| pintora    | painter                  |
+| poli       | police                   |
+| posta      | email                    |
+| prena      | to take                  |
+| quatro     | four                     |
+| rapida     | fast                     |
+| reda       | red                      |
+| rivo       | river                    |
+| ruta       | road                     |
+| sabado     | Saturday                 |
+| salut      | yo!                      |
+| sanktese   | sixty                    |
+| saptese    | seventy                  |
+| seso       | six                      |
+| sentmil    | hundred thousand         |
+| senta      | to feel                  |
+| sentu      | hundred                  |
+| sercha     | search                   |
+| serva      | worker                   |
+| septo      | seven                    |
+| septembra  | September                |
+| sinktese   | fifty                    |
+| siva       | yes                      |
+| skiva      | to write                 |
+| sola       | sun                      |
+| stela      | star                     |
+| stona      | stone                    |
+| strata     | street                   |
+| studia     | student                  |
+| supra?     | sup?                     |
+| telefona   | phone                    |
+| terra      | earth                    |
+| teya       | tea                      |
+| tok        | to touch                 |
+| treno      | train                    |
+| trist      | sad                      |
+| trintese   | thirty                   |
+| turis      | tourist                  |
+| uno        | one                      |
+| venda      | seller                   |
+| veda       | to see                   |
+| vento      | wind                     |
+| venerdo    | Friday                   |
+| vespa      | evening                  |
+| vintese    | twenty                   |
+| voda       | water                    |
